@@ -1,3 +1,18 @@
+const conorArr = [
+    { 
+        name: "Conor",
+        age: 31
+    },
+    {
+        name: "Batman",
+        age: 94
+    },
+    {
+        name: "Rhianna",
+        age: 34
+    }
+]
+
 var colinObjects = [
     {
         name: "cat",
@@ -11,4 +26,5 @@ var colinObjects = [
         name: "James Mann",
         age: "sax man"
     }
+
 ]
